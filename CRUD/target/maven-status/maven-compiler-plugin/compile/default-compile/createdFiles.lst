@@ -1,0 +1,6 @@
+org/springCcrud/entity/Estudante.class
+org/springCcrud/repository/EstudanteRepository.class
+org/springCcrud/service/EstudanteServiceImpl.class
+org/springCcrud/service/EstudanteService.class
+org/springCcrud/MinhaAplicacao.class
+org/springCcrud/Controller/EstudanteController.class
